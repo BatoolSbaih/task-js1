@@ -1,0 +1,12 @@
+.demo{
+  background-color: rgba(162, 231, 231, 0.979);  
+  text-align: center;
+  padding: 40px;
+  text-transform: uppercase;
+}
+.vip{
+    background-color: rgba(67, 197, 158, 0.979); 
+    padding: 40px;
+    width: fit-content;
+    text-transform:capitalize;
+}
